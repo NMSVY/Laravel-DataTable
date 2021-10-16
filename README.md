@@ -1,5 +1,16 @@
 !!!! Welcome !!!
-Steps :
+
+FEATURES :
+1. Backend validation for Add/Update Row. Uniq validation for mobile number.
+2. Delete Row.
+3. Set page Length for Data table as 5,10,20,50 or All rows.
+4. Search records.
+5. Export DataTable to CSV/EXCEL/PDF.
+6. Copy Data Table.
+7. Print Data Table.
+![screen](https://user-images.githubusercontent.com/75966834/137461312-71c7333b-7447-4bd7-852f-4c2151ff443f.jpg)
+<br>
+Steps :<br>
 1. Select Your Specific Directory in Visual Studio Code.
 2. In Terminal Menu click on **New Terminal**
 3. Run This Command in Terminal Window : **git clone https://github.com/NMSVY/DataTable.git **  this will clone project into your selected directory
@@ -14,12 +25,3 @@ THATS ALL!!<br>
 Enjoy!
 
 
-FEATURES :
-1. Backend validation for Add/Update Row. Uniq validation for mobile number.
-2. Delete Row.
-3. Set page Length for Data table as 5,10,20,50 or All rows.
-4. Search records.
-5. Export DataTable to CSV/EXCEL/PDF.
-6. Copy Data Table.
-7. Print Data Table.
-![screen](https://user-images.githubusercontent.com/75966834/137461312-71c7333b-7447-4bd7-852f-4c2151ff443f.jpg)
